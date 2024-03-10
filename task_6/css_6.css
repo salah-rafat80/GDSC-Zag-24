@@ -1,0 +1,43 @@
+.f1, .f2, .f3, .f4{
+    background-color: red ;
+    width: fit-content;
+    padding: 10px;
+    margin: 20px;
+    max-width: 400px;
+    overflow: hidden;
+}
+.elzero{
+ 
+   text-align: center;
+    padding: 10px;
+    margin: 20px;
+    
+}
+
+p.d1{
+    background-color: red;
+    max-width: 400px;
+    
+    display: block;
+    padding: 10px;
+   
+}
+p.d2{
+    background-color: red;
+    max-width: 400px;
+    max-height: 400px;
+    display: block;
+    padding: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+p.d3{
+    background-color: red;
+    max-width: 400px;
+    
+    display: block;
+    padding: 10px;
+   
+}
+
